@@ -1,0 +1,14 @@
+.container{
+    width: 800px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+}
+.input_size{
+    width: 50px!important;
+    height: 30px!important;
+}
+
+.input_sizetwo{
+    width: 30px!important;
+    height: 30px!important;
+}
